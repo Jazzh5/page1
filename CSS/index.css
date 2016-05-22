@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#nav {
+  background: #1a86c0;
+}
+#nav .navbar{margin-bottom: 0px;}
+#navbar-default{background-color: #1a86c0;border: none;}
+#navbar-toggle{border: none;}
+#navbar-toggle span{background-color: #fff;}
+#nav a{color: #fff;text-decoration: none;}
+#nav a:hover{color: #000;background: none;}
+#nav button:hover{background-color: transparent;;}
+.seek{text-align: center;background-color: #1a86c0;
+min-height: 25em;margin-bottom: 2em; }
+.seek img{width: 60%;margin-top: 2em;}
+.seek h2{color: #fff;}
+.seek .seektainer{padding-top: 3em;}
+#text{float: left;width: 75%;height: 45px;}
+#btn{float: right;width: 21%;height: 45px;border-color: #73C1EA;color: #fff;background: #1A86C0;}
+.seek .form-group{width: 100%;margin-top: 2em;}
+.con.left{width: 16.66666%}
+.left h2{font-size: 1em;}
+.left li a{color: #999;}
+.con.right{width: 83.333333%}
+.right h2{font-size: 1em;font-weight: 600;border-bottom: 1px solid #d5d5d5;padding-bottom: 0.5em;}
+.right img{width: 100%;}
+.conpic h2{font-size: 1.25em;margin-top: 0;
+margin-bottom: 0.25em;}
+.conpic .col-sm-8 h2{border-bottom: none;}
+.conpic{padding-top: 1em;}
+.right .col-sm-8 img{width: auto;height: 20px;float: left;}
+.right .col-sm-8 p{font-size: .8em;}
+.bot{margin-bottom: 1em;min-height: 7em;}
+.footer{background:#999;text-align: center;background: none;
+margin: 6em 0 2em 0}
+.footer h3{color: rgb(153,153,153);font-size: 24px;}
+.footer_con{border-bottom: 1px solid rgb(153,153,153)}
+.container .row{padding: 1em 0;}
